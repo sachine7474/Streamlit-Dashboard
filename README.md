@@ -103,4 +103,4 @@ Experience the magic of interactive visualizations with just a few lines of code
 
 Happy coding! 🎨✨
 
-By - Tanmay Singh
+By - Sachin Kumar
