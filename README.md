@@ -17,7 +17,7 @@ Welcome to the **Streamlit Dashboard** project! This interactive app lets you vi
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/Tanmay-hue/Streamlit_Dashboard.git
+git clone https://github.com/sachine7474/Streamlit-Dashboard
 cd Streamlit_Dashboard
 ```
 
@@ -38,7 +38,7 @@ This will launch the dashboard in your default web browser! 🎉
 ## 📦 Docker Deployment
 
 If you prefer using Docker for a consistent development and deployment environment, follow these steps:
-
+https://github.com/sachine7474/Streamlit-Dashboard/settings
 ### Dockerfile Example
 Create a file named `Dockerfile` in the root of your project with the following content:
 
@@ -85,7 +85,7 @@ Want to make your app accessible online? Follow these steps:
 ---
 
 ## 📸 Preview
-![Spiral Preview](https://github.com/Tanmay-hue/Streamlit_Dashboard/blob/main/image.png)
+![Spiral Preview](https://github.com/sachine7474/Streamlit-Dashboard/blob/main/image.png)
 
 Experience the magic of interactive visualizations with just a few lines of code! 🌀
 
