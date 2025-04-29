@@ -17,7 +17,7 @@ Welcome to the **Streamlit Dashboard** project! This interactive app lets you vi
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/sachine7474/Streamlit-Dashboard
+git clone https://github.com/sachine7474/Streamlit-Dashboard.git
 cd Streamlit_Dashboard
 ```
 
